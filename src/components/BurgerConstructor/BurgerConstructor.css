@@ -1,0 +1,23 @@
+.burger-constructor {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  max-width: 608px;
+}
+.burger-constructor_ul{
+  width: 100%;
+}
+
+.burger-constructor_not-bun{
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.burger-constructor_price-block{
+display: flex;
+align-items: center;
+}
+
+.burger-constructor_price-block-icon{
+
+}
